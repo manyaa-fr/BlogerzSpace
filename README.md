@@ -1,5 +1,7 @@
 # Blogera
 
+🚀 Live Demo: [Blogera] (https://studio--studio-1346424115-35dc3.us-central1.hosted.app/)
+
 Blogera is a lightweight, Spring Boot-based blogging REST API with JWT authentication and role-based access control. It enables users to securely create, manage, and view blog posts through a set of well-defined endpoints for user registration, login, logout, and blog management. The API is designed for scalability, security, and ease of use.
 
 ## Features
